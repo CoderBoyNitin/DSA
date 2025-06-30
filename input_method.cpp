@@ -9,4 +9,6 @@ int main(){
     cin >> x; // cin >> x >> y;
     cin >> y;
     cout <<"the value of x + y is :" << (x + y);
+
+    return 0;
 }
